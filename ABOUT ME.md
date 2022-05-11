@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ironbolt2010
+- 👀 I’m interested in computer programming and IT
+- 🌱 I’m currently learning python and flask
